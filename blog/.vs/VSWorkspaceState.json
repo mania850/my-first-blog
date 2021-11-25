@@ -3,7 +3,12 @@
     "",
     "\\migrations",
     "\\migrations\\__pycache__",
+    "\\static",
+    "\\static\\css",
+    "\\templates",
+    "\\templates\\blog",
     "\\__pycache__"
   ],
+  "SelectedNode": "\\templates\\blog\\base.html",
   "PreviewInSolutionExplorer": false
 }
